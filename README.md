@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://img.icons8.com/?size=512&id=55494&format=png" width="20%" alt="WORLDNEWSAPIREADER.GIT-logo">
-</p>
 <p align="center"><h1 align="center">WORLDNEWSAPIREADER</h1><p>
 
 
